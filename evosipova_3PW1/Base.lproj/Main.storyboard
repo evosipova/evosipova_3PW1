@@ -20,9 +20,6 @@
                                 <rect key="frame" x="61" y="94" width="154" height="94"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.91976243260000001" green="0.65705551929999995" blue="0.82332799769999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="94" id="fZ8-dI-hvc"/>
-                                </constraints>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title=""/>
                                 <userDefinedRuntimeAttributes>
@@ -62,9 +59,6 @@
                                 <rect key="frame" x="52" y="653" width="67" height="127"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="0.2527923882" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" secondItem="cnD-m9-nJf" secondAttribute="height" multiplier="67:127" id="EXH-UG-cz6"/>
-                                </constraints>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title=""/>
                                 <userDefinedRuntimeAttributes>
@@ -177,7 +171,6 @@
                             <constraint firstItem="QZn-Zq-fbL" firstAttribute="top" secondItem="I5t-q0-kgU" secondAttribute="bottom" constant="33" id="a9l-ua-oX1"/>
                             <constraint firstItem="Ndj-dp-hf9" firstAttribute="width" secondItem="Ndj-dp-hf9" secondAttribute="height" multiplier="117:197" id="apk-bg-NSP"/>
                             <constraint firstItem="dgd-yu-SDx" firstAttribute="leading" secondItem="nf4-Ph-yO9" secondAttribute="trailing" constant="44" id="uIS-F6-4go"/>
-                            <constraint firstItem="cnD-m9-nJf" firstAttribute="width" secondItem="cnD-m9-nJf" secondAttribute="height" multiplier="67:127" id="uww-kC-lGg"/>
                         </constraints>
                     </view>
                     <connections>
